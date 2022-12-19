@@ -2,7 +2,8 @@
 
 Chat-Bot is an developed for get the information from online response through voice and display on BOT Window.
 
-![GOS](https://user-images.githubusercontent.com/113298736/208356934-c5974fe9-20e8-428e-8dd6-242dfb4598b8.png)
+![GOS](https://user-images.githubusercontent.com/113298736/208358681-bd7f1a0c-c0cc-4a54-a9fe-2813da51ce18.png)
+
 ---
 
 ## Screen-Shot
