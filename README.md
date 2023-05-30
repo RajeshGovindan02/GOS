@@ -1,6 +1,6 @@
 ## **GOD OF SOFTWARE (GOS)**
 
-Chat-Bot is an developed for get the information from online response through voice and display on BOT Window.
+The Chat-Bot is built to retrieve information from online responses through voice and display it on the BOT Window.
 
 ![GOS](https://user-images.githubusercontent.com/113298736/208358681-bd7f1a0c-c0cc-4a54-a9fe-2813da51ce18.png)
 
