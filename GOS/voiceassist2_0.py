@@ -1155,8 +1155,8 @@ def sendWhatsapp(phone_no='', message=''):
     k = Controller()
     k.press(Key.enter)
 
-sender_address="rajeshgvr02@gmail.com"
-sender_pass="Raj02@gvr"
+sender_address="
+sender_pass=""
 def email(rec_email=None, text="Hello, It's G.O.S. here...", sub='G.O.S.'):
     if '@gmail.com' not in rec_email: return
     s = smtplib.SMTP('smtp.gmail.com', 587)
